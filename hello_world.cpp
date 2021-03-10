@@ -1,6 +1,10 @@
-include <iostream>
-using namespace std;
+#include <iostream>
+#include <string>
+
 int main()
 {
-cout<<"Hello World";
+std::string n;
+std::cout << "Введите имя пользователя: ";
+std::cin >> n;
+std::cout<<"Hello World from " <<n;
 }
