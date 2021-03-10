@@ -1,11 +1,10 @@
-#include <iostream>
-#include <string>
+#include <iostream>//Привет, народ
+#include <string>//awfagaehgaefewfWEF
 
-int
-main()
-{
-  std::string n;
-  std::cout << "Введите имя пользователя: "; //Привет народ
-  std::cin >> n;
-  std::cout << "Hello World from " << n;
-}
+int main()//Привет, народ//awfagaehgaefewfWEF
+{//awfagaehgaefewfWEF
+std::string n;//Привет, народ//awfagaehgaefewfWEF
+std::cout << "Введите имя пользователя: "; //Приве//awfagaehgaefewfWEFт, народ
+std::cin >> n;//Привет, народ//awfagaehgaefewfWEF
+std::cout<<"Hello World from " <<n;//Привет, народ//awfagaehgaefewfWEF
+}//Привет, народ//awfagaehgaefewfWEF
