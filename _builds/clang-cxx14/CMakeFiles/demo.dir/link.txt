@@ -1,0 +1,1 @@
+/usr/bin/clang++  -std=c++14   CMakeFiles/demo.dir/demo/main.cpp.o  -o demo  libprint.a 

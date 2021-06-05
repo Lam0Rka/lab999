@@ -1,0 +1,1 @@
+"cmake" "-H." "-B/home/bogdan/Lam0Rka/workspace/projects/lab777/_builds/clang-cxx14" "-GUnix Makefiles" "-DCMAKE_TOOLCHAIN_FILE=/home/bogdan/Lam0Rka/workspace/projects/lab777/tools/polly/clang-cxx14.cmake"
